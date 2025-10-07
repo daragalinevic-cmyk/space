@@ -1,2 +1,2 @@
 # Space
-Знакомство с Git Hub
+Знакомство с GitHub
